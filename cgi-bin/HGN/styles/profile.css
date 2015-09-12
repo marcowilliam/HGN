@@ -1,0 +1,73 @@
+@import url('font-awesome.css');
+
+.artLeft {
+	width: 50%;
+	float: left;
+}
+
+.artLeft img {
+	padding-left: 45%;
+	padding-top: 20%;
+}
+
+.artRight {
+	width: 50%;
+	float: right;
+	font-weight: 300;
+}
+
+
+.artRight h1 {
+	font-weight: 300;
+	font-size: 400%;
+	margin-bottom: 2%;
+	margin-top: 18%;
+}
+
+.artRight h2 {
+	font-weight: 300;
+	font-size: 100%;
+}
+
+table tr td{
+	padding-top: 1%;
+	padding-bottom: 3%;
+}
+
+footer {
+	background-color: #333333;
+	height: 20%;
+	position: absolute;
+	bottom: 0;
+	width:100%;
+}
+
+.footLeft {
+	padding-top: 1.8%;
+	text-align: center;
+	width: 33%;
+	float: left;
+}
+
+.footMid {
+	padding-top: 2.8%;
+	text-align: center;
+	background-color: #7A99FF;
+	width: 33%;
+	float: left;
+	height: 72.5%;
+}
+
+.footRight {
+	padding-top: 2.8%;
+	text-align: center;
+	width: 33%;
+	float: left;
+}
+
+.test {
+	font-weight: 300;
+	color: #FFFFFF;
+	margin-top: 0.1%;
+	margin-bottom: 0.1%;
+}

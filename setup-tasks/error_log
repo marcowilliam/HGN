@@ -1,0 +1,881 @@
+[11-Jul-2015 14:53:25 America/Denver] PHP Notice:  Undefined index: team_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 21
+[11-Jul-2015 14:53:25 America/Denver] PHP Notice:  Undefined variable: user_task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 120
+[11-Jul-2015 14:54:19 America/Denver] PHP Notice:  Undefined index: team_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 21
+[11-Jul-2015 14:54:19 America/Denver] PHP Notice:  Undefined variable: user_task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 120
+[11-Jul-2015 14:55:06 America/Denver] PHP Notice:  Undefined index: team_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 21
+[11-Jul-2015 14:59:17 America/Denver] PHP Notice:  Undefined index: team_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 21
+[11-Jul-2015 14:59:31 America/Denver] PHP Notice:  Undefined index: team_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 21
+[11-Jul-2015 15:01:39 America/Denver] PHP Notice:  Undefined index: team_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 21
+[11-Jul-2015 15:02:13 America/Denver] PHP Notice:  Undefined index: team_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 21
+[11-Jul-2015 15:06:08 America/Denver] PHP Notice:  Undefined index: team_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 21
+[11-Jul-2015 15:06:19 America/Denver] PHP Notice:  Undefined index: team_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 21
+[11-Jul-2015 15:24:12 America/Denver] PHP Notice:  Undefined index: task_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 18
+[11-Jul-2015 15:24:12 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 15:24:12 America/Denver] PHP Notice:  Undefined index: task_description in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 20
+[11-Jul-2015 15:24:27 America/Denver] PHP Notice:  Undefined index: task_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 18
+[11-Jul-2015 15:24:27 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 15:24:27 America/Denver] PHP Notice:  Undefined index: task_description in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 20
+[11-Jul-2015 15:25:51 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 15:25:51 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 15:25:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 15:25:51 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 15:40:57 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 230
+[11-Jul-2015 15:41:22 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 230
+[11-Jul-2015 15:41:38 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 15:41:38 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 15:41:38 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 15:41:38 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 15:41:47 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 230
+[11-Jul-2015 15:59:33 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 15:59:33 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 15:59:33 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 15:59:33 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 15:59:36 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 230
+[11-Jul-2015 16:05:17 America/Denver] PHP Notice:  Undefined variable: team_description in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 165
+[11-Jul-2015 16:05:18 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 233
+[11-Jul-2015 16:05:48 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 16:05:48 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 16:05:48 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 16:05:48 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 16:05:52 America/Denver] PHP Notice:  Undefined variable: team_description in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 165
+[11-Jul-2015 16:05:52 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 233
+[11-Jul-2015 16:06:24 America/Denver] PHP Notice:  Undefined variable: team_description in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 165
+[11-Jul-2015 16:06:24 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 233
+[11-Jul-2015 16:07:24 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 234
+[11-Jul-2015 16:11:17 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 16:11:17 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 16:11:17 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 16:11:17 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 16:14:19 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 16:14:19 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 16:14:19 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 16:14:19 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 16:14:40 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 16:14:40 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 16:14:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 16:14:40 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 16:14:44 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 234
+[11-Jul-2015 16:16:26 America/Denver] PHP Notice:  Undefined variable: team_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 235
+[11-Jul-2015 17:32:41 America/Denver] PHP Notice:  Undefined index: user_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 10
+[11-Jul-2015 17:32:41 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 14
+[11-Jul-2015 17:32:41 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 15
+[11-Jul-2015 17:32:41 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 16
+[11-Jul-2015 17:32:41 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 17
+[11-Jul-2015 17:32:41 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 18
+[11-Jul-2015 17:32:41 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 21
+[11-Jul-2015 17:32:49 America/Denver] PHP Notice:  Undefined index: user_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 10
+[11-Jul-2015 17:32:49 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 14
+[11-Jul-2015 17:32:49 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 15
+[11-Jul-2015 17:32:49 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 16
+[11-Jul-2015 17:32:49 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 17
+[11-Jul-2015 17:32:49 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 18
+[11-Jul-2015 17:32:49 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 21
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: user_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 10
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 14
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 15
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 16
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 17
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 18
+[11-Jul-2015 17:33:04 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 21
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: user_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 10
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 14
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 15
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 16
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 17
+[11-Jul-2015 17:33:04 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 18
+[11-Jul-2015 17:33:04 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 21
+[11-Jul-2015 17:57:37 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 17:59:55 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:00:19 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:03:28 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:04:46 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:05:05 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:05:20 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:05:54 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:06:43 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:06:59 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:07:15 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:54:00 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:55:09 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:56:31 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:56:44 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:57:15 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:57:29 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:57:52 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:58:08 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:58:20 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 18:59:56 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:00:44 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:02:01 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:02:23 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:03:35 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:06:12 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:06:49 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:07:09 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:07:48 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:12:27 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:14:09 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:15:01 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:15:13 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:15:21 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:19:23 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:19:49 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:20:04 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:20:14 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:20:24 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:20:31 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:20:56 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:23:21 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:23:30 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:23:39 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:23:54 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:50:35 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 131
+[11-Jul-2015 19:50:38 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 131
+[11-Jul-2015 19:51:17 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 131
+[11-Jul-2015 19:52:03 America/Denver] PHP Notice:  Undefined index: task_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 21
+[11-Jul-2015 19:52:11 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 19:54:18 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 19:54:18 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 19:54:18 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 19:54:18 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 19:54:48 America/Denver] PHP Notice:  Undefined index: task_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 142
+[11-Jul-2015 19:54:48 America/Denver] PHP Notice:  Undefined index: task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 146
+[11-Jul-2015 19:54:52 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 225
+[11-Jul-2015 19:57:33 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 131
+[11-Jul-2015 19:58:11 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 131
+[11-Jul-2015 19:58:13 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 131
+[11-Jul-2015 19:58:28 America/Denver] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 131
+[11-Jul-2015 19:58:47 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 135
+[11-Jul-2015 20:00:17 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 20:11:20 America/Denver] PHP Notice:  Undefined index: user_login in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 202
+[11-Jul-2015 20:12:19 America/Denver] PHP Notice:  Undefined index: user_login in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 202
+[11-Jul-2015 20:13:31 America/Denver] PHP Notice:  Undefined index: user_login in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 205
+[11-Jul-2015 20:13:51 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 191
+[11-Jul-2015 20:15:11 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 190
+[11-Jul-2015 20:15:31 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 191
+[11-Jul-2015 21:18:32 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:26:17 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:27:27 America/Denver] PHP Notice:  Undefined index: task_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 18
+[11-Jul-2015 21:27:27 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 21:27:27 America/Denver] PHP Notice:  Undefined index: task_description in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 20
+[11-Jul-2015 21:27:27 America/Denver] PHP Notice:  Undefined index: checked in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 21
+[11-Jul-2015 21:27:41 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 21:27:41 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 21:27:41 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 21:27:41 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 21:27:41 America/Denver] PHP Notice:  Undefined variable: cuser_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 63
+[11-Jul-2015 21:31:26 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 21:31:26 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 21:31:26 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 21:31:26 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 21:31:27 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 21:31:27 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 21:31:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 21:31:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 21:31:31 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:34:27 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 21:34:27 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 45
+[11-Jul-2015 21:34:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 27
+[11-Jul-2015 21:34:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 29
+[11-Jul-2015 21:34:37 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:35:13 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:36:19 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:36:33 America/Denver] PHP Notice:  Undefined index: task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 22
+[11-Jul-2015 21:36:33 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:36:33 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:36:33 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:36:38 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:36:41 America/Denver] PHP Notice:  Undefined index: task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 22
+[11-Jul-2015 21:36:41 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:36:41 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:36:41 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:36:45 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:36:51 America/Denver] PHP Notice:  Undefined index: task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 22
+[11-Jul-2015 21:36:51 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:36:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:36:51 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:36:55 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:39:58 America/Denver] PHP Notice:  Undefined index: task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 22
+[11-Jul-2015 21:39:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:39:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:39:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:42:18 America/Denver] PHP Notice:  Undefined index: task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 22
+[11-Jul-2015 21:42:18 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:42:18 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:42:18 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:42:58 America/Denver] PHP Notice:  Undefined index: task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 22
+[11-Jul-2015 21:42:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:42:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:42:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:43:01 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:43:05 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:43:05 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:43:05 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:43:10 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:44:12 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:44:12 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:44:12 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:44:16 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:45:13 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:45:17 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:45:17 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:45:17 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:45:24 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:47:27 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:47:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:47:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:47:34 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:47:40 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 21:47:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 21:47:40 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 21:47:43 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 21:53:31 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 22:00:49 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 22:00:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[11-Jul-2015 22:00:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[11-Jul-2015 22:00:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[11-Jul-2015 22:01:00 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 22:04:05 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[11-Jul-2015 22:04:05 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[11-Jul-2015 22:04:05 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[11-Jul-2015 22:04:21 America/Denver] PHP Notice:  Undefined index: visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/editTask.php on line 56
+[11-Jul-2015 22:04:24 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[11-Jul-2015 22:04:24 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[11-Jul-2015 22:04:24 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[11-Jul-2015 22:05:28 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[11-Jul-2015 22:05:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[11-Jul-2015 22:05:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[11-Jul-2015 22:06:47 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[11-Jul-2015 22:06:47 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[11-Jul-2015 22:06:47 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[11-Jul-2015 22:07:39 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[11-Jul-2015 22:07:39 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[11-Jul-2015 22:07:39 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[11-Jul-2015 22:12:56 America/Denver] PHP Notice:  Undefined variable: task_user in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 164
+[11-Jul-2015 22:12:56 America/Denver] PHP Notice:  Undefined variable: task_user in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 164
+[11-Jul-2015 22:12:59 America/Denver] PHP Notice:  Undefined index: task_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 21
+[11-Jul-2015 22:12:59 America/Denver] PHP Notice:  Undefined variable: task_user in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 164
+[11-Jul-2015 22:13:41 America/Denver] PHP Notice:  Undefined index: task_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 21
+[11-Jul-2015 22:14:02 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 22:14:02 America/Denver] PHP Notice:  Undefined index: checked in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 21
+[11-Jul-2015 22:14:02 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[11-Jul-2015 22:14:02 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[11-Jul-2015 22:14:02 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[11-Jul-2015 22:18:47 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[11-Jul-2015 22:18:47 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[11-Jul-2015 22:18:47 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[11-Jul-2015 22:18:47 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[11-Jul-2015 22:18:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[11-Jul-2015 22:18:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[11-Jul-2015 22:18:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[11-Jul-2015 22:30:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 108
+[11-Jul-2015 22:30:34 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 108
+[12-Jul-2015 09:34:24 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 09:34:24 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[12-Jul-2015 09:34:24 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[12-Jul-2015 09:34:24 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[12-Jul-2015 09:34:28 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:34:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:34:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:34:33 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:34:33 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:34:33 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:34:53 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:34:53 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:34:53 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:35:08 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 09:35:08 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[12-Jul-2015 09:35:08 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[12-Jul-2015 09:35:08 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[12-Jul-2015 09:43:59 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:43:59 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:43:59 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:52:37 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:52:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:52:37 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:53:05 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:53:05 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:53:05 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:53:27 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:53:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:53:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:55:15 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:55:15 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:55:15 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:59:29 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:59:29 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:59:29 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:59:29 America/Denver] PHP Notice:  Undefined variable: sql4 in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 09:59:29 America/Denver] PHP Warning:  mysqli_query(): Empty query in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 09:59:29 America/Denver] PHP Notice:  Undefined variable: sql4 in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 09:59:29 America/Denver] PHP Warning:  mysqli_query(): Empty query in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 09:59:44 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 09:59:44 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 09:59:44 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 09:59:44 America/Denver] PHP Notice:  Undefined variable: sql4 in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 09:59:44 America/Denver] PHP Warning:  mysqli_query(): Empty query in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 09:59:44 America/Denver] PHP Notice:  Undefined variable: sql4 in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 09:59:44 America/Denver] PHP Warning:  mysqli_query(): Empty query in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 09:59:44 America/Denver] PHP Notice:  Undefined variable: sql4 in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 09:59:44 America/Denver] PHP Warning:  mysqli_query(): Empty query in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 10:01:31 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 10:01:31 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 10:01:31 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 10:01:31 America/Denver] PHP Notice:  Undefined variable: sql4 in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 10:01:31 America/Denver] PHP Warning:  mysqli_query(): Empty query in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 10:01:31 America/Denver] PHP Notice:  Undefined variable: sql4 in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 10:01:31 America/Denver] PHP Warning:  mysqli_query(): Empty query in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 10:01:31 America/Denver] PHP Notice:  Undefined variable: sql4 in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 10:01:31 America/Denver] PHP Warning:  mysqli_query(): Empty query in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 77
+[12-Jul-2015 10:03:13 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 10:03:13 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 10:03:13 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 10:03:22 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 10:03:22 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 10:03:22 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 10:03:47 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 10:03:47 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 10:03:47 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 15:04:57 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 139
+[12-Jul-2015 15:06:20 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 184
+[12-Jul-2015 15:23:53 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:24:18 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:24:43 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:25:03 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:25:31 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:26:39 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 15:26:39 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 15:26:39 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 15:26:39 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:29:47 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 15:29:47 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 15:29:47 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 15:29:48 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:45:25 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:45:28 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:47:45 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:47:51 America/Denver] PHP Notice:  Undefined index: task_visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 23
+[12-Jul-2015 15:47:51 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 15:47:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 15:47:51 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 15:47:51 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:48:11 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 15:48:11 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[12-Jul-2015 15:48:11 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[12-Jul-2015 15:48:11 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[12-Jul-2015 15:48:11 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:49:56 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:50:44 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:51:22 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:51:43 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:51:56 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 15:52:27 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 167
+[12-Jul-2015 15:52:38 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 167
+[12-Jul-2015 15:53:05 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 167
+[12-Jul-2015 15:53:18 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 167
+[12-Jul-2015 15:53:46 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 167
+[12-Jul-2015 15:54:03 America/Denver] PHP Notice:  Undefined index: user_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 147
+[12-Jul-2015 16:01:29 America/Denver] PHP Notice:  Undefined index: task_id in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/deleteTask.php on line 18
+[12-Jul-2015 16:29:50 America/Denver] PHP Notice:  Undefined index: task_visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 23
+[12-Jul-2015 16:29:50 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 16:29:50 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 16:29:50 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 16:46:13 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 16:46:13 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[12-Jul-2015 16:46:13 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[12-Jul-2015 16:46:13 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[12-Jul-2015 16:47:10 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 16:47:10 America/Denver] PHP Notice:  Undefined index: checked in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 21
+[12-Jul-2015 16:47:10 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[12-Jul-2015 16:47:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[12-Jul-2015 16:47:10 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[12-Jul-2015 16:48:19 America/Denver] PHP Notice:  Undefined index: task_visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 23
+[12-Jul-2015 16:48:19 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 16:48:19 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 16:48:20 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 17:01:42 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 17:01:42 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[12-Jul-2015 17:01:42 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[12-Jul-2015 17:01:42 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[12-Jul-2015 17:02:03 America/Denver] PHP Notice:  Undefined index: task_visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 23
+[12-Jul-2015 17:02:03 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 17:02:03 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 17:02:03 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 17:02:14 America/Denver] PHP Notice:  Undefined index: task_visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 23
+[12-Jul-2015 17:02:14 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 17:02:14 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 17:02:14 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 17:02:31 America/Denver] PHP Notice:  Undefined index: task_visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 23
+[12-Jul-2015 17:02:31 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 44
+[12-Jul-2015 17:02:31 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 29
+[12-Jul-2015 17:02:31 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 31
+[12-Jul-2015 17:04:12 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[12-Jul-2015 17:04:12 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[12-Jul-2015 17:04:12 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[12-Jul-2015 17:06:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 43
+[12-Jul-2015 17:06:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 28
+[12-Jul-2015 17:06:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[12-Jul-2015 17:41:41 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 17:41:41 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[12-Jul-2015 17:41:41 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[12-Jul-2015 17:41:41 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[12-Jul-2015 17:43:12 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 17:43:12 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[12-Jul-2015 17:43:12 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[12-Jul-2015 17:43:12 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[12-Jul-2015 18:19:43 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 18:19:43 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 46
+[12-Jul-2015 18:19:43 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 28
+[12-Jul-2015 18:19:43 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[12-Jul-2015 20:08:33 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[12-Jul-2015 20:08:33 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[12-Jul-2015 20:08:33 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[12-Jul-2015 20:13:24 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[12-Jul-2015 20:13:24 America/Denver] PHP Notice:  Undefined index: checked in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 21
+[13-Jul-2015 14:02:44 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[13-Jul-2015 14:02:44 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[13-Jul-2015 14:02:44 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[13-Jul-2015 14:25:28 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[13-Jul-2015 14:25:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[13-Jul-2015 14:25:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[13-Jul-2015 14:28:25 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[13-Jul-2015 14:28:25 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[13-Jul-2015 14:28:25 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[18-Jul-2015 10:29:03 America/Denver] PHP Notice:  Undefined index: user_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 10
+[18-Jul-2015 10:29:03 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 14
+[18-Jul-2015 10:29:03 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 15
+[18-Jul-2015 10:29:03 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 16
+[18-Jul-2015 10:29:03 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 17
+[18-Jul-2015 10:29:03 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 18
+[18-Jul-2015 10:29:03 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 21
+[18-Jul-2015 18:59:05 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[18-Jul-2015 18:59:05 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 48
+[18-Jul-2015 18:59:05 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[18-Jul-2015 18:59:05 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 32
+[18-Jul-2015 19:03:45 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[18-Jul-2015 19:03:45 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 48
+[18-Jul-2015 19:03:45 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[18-Jul-2015 19:03:45 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 32
+[18-Jul-2015 19:04:30 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[18-Jul-2015 19:04:30 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 48
+[18-Jul-2015 19:04:30 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[18-Jul-2015 19:04:30 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 32
+[21-Jul-2015 09:04:12 America/Denver] PHP Notice:  Undefined index: user_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 10
+[21-Jul-2015 09:04:12 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 14
+[21-Jul-2015 09:04:12 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 15
+[21-Jul-2015 09:04:12 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 16
+[21-Jul-2015 09:04:12 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 17
+[21-Jul-2015 09:04:12 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 18
+[21-Jul-2015 09:04:12 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'arafferty'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 21
+[24-Jul-2015 14:30:32 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[24-Jul-2015 14:30:32 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 48
+[24-Jul-2015 14:30:32 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[24-Jul-2015 14:30:32 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 32
+[24-Jul-2015 14:36:58 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[24-Jul-2015 14:36:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 48
+[24-Jul-2015 14:36:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[24-Jul-2015 14:36:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 32
+[24-Jul-2015 14:38:03 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[24-Jul-2015 14:38:03 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[24-Jul-2015 14:38:03 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[24-Jul-2015 14:42:39 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[24-Jul-2015 14:42:39 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 48
+[24-Jul-2015 14:42:39 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 30
+[24-Jul-2015 14:42:39 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 32
+[24-Jul-2015 14:54:38 America/Denver] PHP Notice:  Undefined index: task_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 18
+[24-Jul-2015 14:54:38 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[24-Jul-2015 14:54:38 America/Denver] PHP Notice:  Undefined index: task_description in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 20
+[24-Jul-2015 14:54:38 America/Denver] PHP Notice:  Undefined index: checked in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 21
+[24-Jul-2015 14:54:38 America/Denver] PHP Notice:  Undefined index: task_visibility in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 22
+[24-Jul-2015 14:54:38 America/Denver] PHP Notice:  Undefined index: task_category in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 23
+[24-Jul-2015 14:55:03 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[24-Jul-2015 14:55:03 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[24-Jul-2015 14:55:03 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[24-Jul-2015 14:55:03 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[24-Jul-2015 14:56:25 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[24-Jul-2015 14:56:25 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[24-Jul-2015 14:56:25 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[24-Jul-2015 14:56:38 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[24-Jul-2015 14:56:38 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[24-Jul-2015 14:56:38 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[24-Jul-2015 14:56:55 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[24-Jul-2015 14:56:55 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[24-Jul-2015 14:56:55 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[24-Jul-2015 14:57:36 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[24-Jul-2015 14:57:36 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[24-Jul-2015 14:57:36 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[24-Jul-2015 14:58:26 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[24-Jul-2015 14:58:26 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[24-Jul-2015 14:58:26 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[24-Jul-2015 14:59:43 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[24-Jul-2015 14:59:43 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[24-Jul-2015 14:59:43 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[24-Jul-2015 14:59:43 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[24-Jul-2015 15:00:33 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[24-Jul-2015 15:00:33 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[24-Jul-2015 15:00:33 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[24-Jul-2015 16:59:26 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[24-Jul-2015 16:59:26 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[24-Jul-2015 16:59:26 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[24-Jul-2015 16:59:26 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[24-Jul-2015 17:02:36 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[24-Jul-2015 17:02:36 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[24-Jul-2015 17:02:36 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[27-Jul-2015 11:50:36 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[27-Jul-2015 11:50:36 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[27-Jul-2015 11:50:36 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[27-Jul-2015 11:50:42 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[27-Jul-2015 11:50:42 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[27-Jul-2015 11:50:42 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[27-Jul-2015 13:37:32 America/Denver] PHP Notice:  Undefined index: user_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 10
+[27-Jul-2015 13:37:32 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 14
+[27-Jul-2015 13:37:32 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 15
+[27-Jul-2015 13:37:32 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 16
+[27-Jul-2015 13:37:32 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 17
+[27-Jul-2015 13:37:32 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 18
+[27-Jul-2015 13:37:32 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'arafferty'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/index.php on line 21
+[27-Jul-2015 15:10:21 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[27-Jul-2015 15:10:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[27-Jul-2015 15:10:21 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[27-Jul-2015 15:10:55 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[27-Jul-2015 15:10:55 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[27-Jul-2015 15:10:55 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[27-Jul-2015 16:10:54 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[27-Jul-2015 16:10:54 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[27-Jul-2015 16:10:54 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[27-Jul-2015 16:10:54 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[27-Jul-2015 16:37:14 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[27-Jul-2015 16:37:14 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[27-Jul-2015 16:37:14 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[27-Jul-2015 16:40:24 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[27-Jul-2015 16:40:24 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[27-Jul-2015 16:40:24 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[27-Jul-2015 16:40:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[27-Jul-2015 16:40:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[27-Jul-2015 16:40:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[01-Aug-2015 09:57:41 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[01-Aug-2015 09:57:42 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[01-Aug-2015 09:57:42 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[01-Aug-2015 11:27:00 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[01-Aug-2015 11:27:00 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[01-Aug-2015 11:27:00 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[01-Aug-2015 11:27:00 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[01-Aug-2015 11:27:24 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[01-Aug-2015 11:27:24 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[01-Aug-2015 11:27:24 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[01-Aug-2015 11:27:24 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[01-Aug-2015 11:31:20 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[01-Aug-2015 11:31:20 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[01-Aug-2015 11:31:20 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[01-Aug-2015 11:31:20 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[02-Aug-2015 12:07:38 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[02-Aug-2015 12:07:38 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[02-Aug-2015 12:07:38 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[02-Aug-2015 12:07:38 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[02-Aug-2015 12:08:16 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 12:08:16 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 12:08:16 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 12:08:23 America/Denver] PHP Notice:  Undefined index: task_name in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 18
+[02-Aug-2015 12:08:23 America/Denver] PHP Notice:  Undefined index: task_description in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 19
+[02-Aug-2015 12:08:23 America/Denver] PHP Notice:  Undefined index: task_category in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 20
+[02-Aug-2015 12:08:23 America/Denver] PHP Notice:  Undefined index: checked in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 21
+[02-Aug-2015 12:09:09 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 12:09:09 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 12:09:09 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 12:55:50 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 12:55:50 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 12:55:50 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 12:56:14 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 12:56:14 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 12:56:14 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 13:32:59 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 13:32:59 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 13:32:59 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 14:33:57 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 14:33:57 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 14:33:57 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 14:41:06 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 14:41:06 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 14:41:06 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 15:53:13 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 15:53:13 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 15:53:13 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 16:02:44 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 16:02:44 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 16:02:44 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 16:02:54 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 16:02:54 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 16:02:54 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 21:07:30 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 21:07:30 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 21:07:30 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 21:07:40 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 21:07:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 21:07:40 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[02-Aug-2015 21:07:48 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[02-Aug-2015 21:07:48 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[02-Aug-2015 21:07:48 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[03-Aug-2015 16:10:26 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[03-Aug-2015 16:10:26 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[03-Aug-2015 16:10:26 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[03-Aug-2015 16:10:26 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[03-Aug-2015 17:45:41 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[03-Aug-2015 17:45:42 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[03-Aug-2015 17:45:42 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[03-Aug-2015 18:02:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[03-Aug-2015 18:02:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[03-Aug-2015 18:02:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[03-Aug-2015 19:12:40 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[03-Aug-2015 19:12:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[03-Aug-2015 19:12:40 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[03-Aug-2015 19:12:40 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[03-Aug-2015 19:12:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[03-Aug-2015 19:12:40 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[03-Aug-2015 20:45:58 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[03-Aug-2015 20:45:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[03-Aug-2015 20:45:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[03-Aug-2015 20:45:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[03-Aug-2015 20:46:18 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[03-Aug-2015 20:46:18 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[03-Aug-2015 20:46:18 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[03-Aug-2015 20:46:18 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[03-Aug-2015 20:46:38 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[03-Aug-2015 20:46:38 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[03-Aug-2015 20:46:38 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[03-Aug-2015 20:46:38 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[03-Aug-2015 20:46:52 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[03-Aug-2015 20:46:52 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[03-Aug-2015 20:46:52 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[03-Aug-2015 20:47:19 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[03-Aug-2015 20:47:19 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[03-Aug-2015 20:47:19 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[03-Aug-2015 20:47:19 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[03-Aug-2015 20:47:27 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[03-Aug-2015 20:47:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[03-Aug-2015 20:47:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[03-Aug-2015 20:47:36 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[03-Aug-2015 20:47:36 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[03-Aug-2015 20:47:36 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[03-Aug-2015 20:47:44 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[03-Aug-2015 20:47:44 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[03-Aug-2015 20:47:44 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[03-Aug-2015 20:47:52 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[03-Aug-2015 20:47:52 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[03-Aug-2015 20:47:52 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[04-Aug-2015 17:27:55 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 17:27:55 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 17:27:55 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 17:27:55 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 18:37:37 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[04-Aug-2015 18:37:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[04-Aug-2015 18:37:37 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[04-Aug-2015 18:40:30 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[04-Aug-2015 18:40:30 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[04-Aug-2015 18:40:30 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[04-Aug-2015 20:58:34 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 10
+[04-Aug-2015 20:58:34 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 11
+[04-Aug-2015 20:58:34 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 12
+[04-Aug-2015 20:58:34 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 13
+[04-Aug-2015 20:58:34 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 14
+[04-Aug-2015 20:58:34 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 20:58:34 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 20:58:34 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 20:58:34 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 20:58:34 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'arafferty'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 54
+[04-Aug-2015 20:59:42 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 20:59:42 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 20:59:42 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 20:59:42 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 21:03:35 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[04-Aug-2015 21:03:35 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[04-Aug-2015 21:03:35 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[04-Aug-2015 22:39:53 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 22:39:53 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 22:39:53 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 22:39:53 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 22:43:05 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 22:43:05 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 22:43:05 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 22:43:05 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 22:44:00 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 22:44:00 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 22:44:00 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 22:44:00 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 22:45:17 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 22:45:17 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 22:45:17 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 22:45:17 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 22:46:31 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 22:46:31 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 22:46:31 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 22:46:31 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 22:46:51 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[04-Aug-2015 22:46:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[04-Aug-2015 22:46:51 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[04-Aug-2015 22:47:28 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 22:47:28 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 22:47:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 22:47:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 22:48:10 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 22:48:10 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 22:48:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 22:48:10 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 22:48:49 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 22:48:49 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 22:48:49 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 22:48:49 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[04-Aug-2015 22:49:10 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[04-Aug-2015 22:49:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[04-Aug-2015 22:49:10 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[04-Aug-2015 22:50:50 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[04-Aug-2015 22:50:50 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[04-Aug-2015 22:50:50 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[04-Aug-2015 22:50:50 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[05-Aug-2015 11:47:06 America/Denver] PHP Notice:  Undefined index: user_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 10
+[05-Aug-2015 11:47:06 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 14
+[05-Aug-2015 11:47:06 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 15
+[05-Aug-2015 11:47:06 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 16
+[05-Aug-2015 11:47:06 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 17
+[05-Aug-2015 11:47:06 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 18
+[05-Aug-2015 11:47:06 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'arafferty'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 25
+[05-Aug-2015 12:03:49 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[05-Aug-2015 12:03:49 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[05-Aug-2015 12:03:49 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[05-Aug-2015 12:03:49 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[05-Aug-2015 12:04:13 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 12:04:13 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 12:04:13 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 12:16:44 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[05-Aug-2015 12:16:44 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[05-Aug-2015 12:16:44 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[05-Aug-2015 12:16:44 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[05-Aug-2015 20:17:26 America/Denver] PHP Notice:  Undefined index: user_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 10
+[05-Aug-2015 20:17:26 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 14
+[05-Aug-2015 20:17:26 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 15
+[05-Aug-2015 20:17:26 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 16
+[05-Aug-2015 20:17:26 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 17
+[05-Aug-2015 20:17:26 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 18
+[05-Aug-2015 20:17:26 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'arafferty'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/newtask.php on line 25
+[05-Aug-2015 20:19:24 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:19:24 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:19:24 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:19:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:19:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:19:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:20:14 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:20:14 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:20:14 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:22:21 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[05-Aug-2015 20:22:21 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[05-Aug-2015 20:22:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[05-Aug-2015 20:22:21 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[05-Aug-2015 20:24:09 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[05-Aug-2015 20:24:09 America/Denver] PHP Notice:  Undefined index: checked in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 21
+[05-Aug-2015 20:24:09 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[05-Aug-2015 20:24:09 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[05-Aug-2015 20:24:09 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[05-Aug-2015 20:27:39 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:27:39 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:27:39 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:28:00 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:28:00 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:28:00 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:28:19 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:28:19 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:28:19 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:28:45 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:28:45 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:28:45 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:29:31 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:29:31 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:29:31 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:31:16 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[05-Aug-2015 20:31:16 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[05-Aug-2015 20:31:16 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[05-Aug-2015 20:31:16 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[05-Aug-2015 20:32:38 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[05-Aug-2015 20:32:38 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[05-Aug-2015 20:32:38 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[05-Aug-2015 20:32:38 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[05-Aug-2015 20:36:12 America/Denver] PHP Notice:  Undefined index: task_type in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 19
+[05-Aug-2015 20:36:12 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 49
+[05-Aug-2015 20:36:12 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 31
+[05-Aug-2015 20:36:12 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/addTask.php on line 33
+[05-Aug-2015 20:36:25 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:36:25 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:36:25 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:36:31 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:36:31 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:36:31 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:36:39 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:36:39 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:36:39 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:36:45 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:36:45 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:36:45 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:36:45 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:36:45 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:36:45 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:36:55 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:36:55 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:36:55 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:37:05 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:37:05 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:37:05 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:37:18 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:37:18 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:37:18 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:37:28 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:37:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:37:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:37:37 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:37:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:37:37 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:37:54 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:37:54 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:37:54 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:38:21 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:38:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:38:21 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:38:28 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:38:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:38:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:38:38 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:38:38 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:38:38 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:38:45 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:38:45 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:38:45 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:38:51 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:38:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:38:51 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:38:58 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:38:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:38:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:39:05 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:39:05 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:39:05 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:39:11 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:39:11 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:39:11 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:39:30 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:39:30 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:39:30 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:39:49 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:39:49 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:39:49 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[05-Aug-2015 20:40:13 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[05-Aug-2015 20:40:13 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[05-Aug-2015 20:40:13 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[07-Aug-2015 14:44:30 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[07-Aug-2015 14:44:30 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[07-Aug-2015 14:44:30 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[08-Aug-2015 11:53:51 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[08-Aug-2015 11:53:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[08-Aug-2015 11:53:51 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[09-Aug-2015 09:32:23 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[09-Aug-2015 09:32:23 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[09-Aug-2015 09:32:23 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32
+[13-Aug-2015 15:05:10 America/Denver] PHP Notice:  Undefined variable: conn in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 45
+[13-Aug-2015 15:05:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 30
+[13-Aug-2015 15:05:10 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/ethosolu/public_html/highestgoodnetwork/setup-tasks/changeTask.php on line 32

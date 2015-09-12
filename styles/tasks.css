@@ -1,0 +1,288 @@
+.artLeft {
+	width: 75%;
+	float: left;
+	overflow-y: scroll;
+	height: 90%;
+}
+
+.input_sub_task_edit{
+
+	font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 100%;
+  width: 100%;
+  margin-left: 10%;
+  background: none;
+  border: 0;
+  text-align: center;
+
+}
+
+.artRight {
+	width: 25%;
+	float: right;
+	font-weight: 300;
+	background-color: #F19A36;
+	height: 92.4%;
+}
+
+
+.hoursBars {
+	height: 55%;
+	overflow-y: auto;
+}
+
+.hoursBarsChart {
+	margin-left: 3%;
+	margin-right: 0%;
+	width: 97%;
+}
+
+.hours {
+	font-size: 90%;
+	height: 20%;
+
+	white-space: nowrap;
+}
+
+.createBigTask, .hoursBars {
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.createBigTask h1, .hoursBars h1 {
+	font-weight: 300;
+	font-size: 200%;
+}
+
+
+
+.divUserTask img, .userImg{
+	float: left;
+	width: 60px;
+	height: 60px;
+	border-radius: 500px;
+
+}
+
+.divUserTask {
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-top: 5%;
+	width: 86%;
+}
+
+.divUserTask h2{
+
+	font-weight: 300;
+	font-size: 160%;
+	padding-left: 10%;
+}
+
+.divTopTasksList {
+
+	background-color: #333333;
+	width: 100%;
+	height: 5%;
+	padding-left: 7%;
+	padding-top: 3%;
+
+}
+
+.divTopTasksList {
+
+	clear: both;
+	font-weight: 100;
+	font-size: 70%;
+	text-align: center;
+	color: #FFFFFF;
+	padding: 1%;
+
+}
+
+
+
+.divAddSubtask {
+	text-align: center;
+	padding-left: 7%;
+	width: 86%;
+	display:none;
+	padding-right: 7%;
+}
+
+.tableAddSubtask{
+	
+}
+
+#subtaskdescription {
+	margin-top: -8.5%;
+}
+
+#inputNewSubClassName {
+	wdith:10000px;
+}
+
+#subTaskNameSelect{
+	display:run-in;
+
+}
+
+.divContentTasksList{
+	width: 86%;
+	padding-left: 7%;
+	padding-right: 7%;
+	overflow-y: auto;
+
+}
+
+.divContentTasksList ul {
+
+	list-style-type: none;
+}
+
+.divContentTasksList li {
+
+	padding-top: 3%;
+}
+
+.divFooterTasksList{
+	background-color: #333333;
+	width: 100%;
+	height: 5%;
+	margin-left: 10%;
+	float: top;
+
+}
+
+.divFooterTasksList ul {
+	list-style: none;
+}
+
+.divFooterTasksList li {
+	
+	display: inline;
+
+}
+
+#tabela, #tabelaTasks{
+	padding: 3%;
+}
+
+textarea.wrapper {
+	background-color: #888;
+	width: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 100%;
+  width: 100%;
+  position: relative;
+  background: #dfdfdf;
+  color: #444;
+  padding: 5px;
+  border: 0;
+  text-align: center;
+  
+}
+
+.wrapper {
+  position: relative;
+  border-bottom: 1px solid #888;
+  text-align: center;
+
+
+}
+
+#tabela, #tabelaTasks, #tabela_submit {
+
+  border-collapse: collapse;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 130%;
+}
+
+#tabela , #tabelaTasks tr .task {
+	font-size: 120%;
+	font-weight: 400;
+	padding-right: 1%;
+	padding-left: 3%;
+	padding-top: 3%;
+	padding-bottom: 0;
+}
+
+#tabela , #tabelaTasks tr .hours {
+	font-size: 120%;
+	font-weight: 400;
+	padding-top: 3%;
+	width: 20%;
+	text-align: right;
+}
+
+
+#tabela , #tabelaTasks .odd{
+  background-color: #F0F3FF;
+}
+
+.smallIcon {
+	color: #333333;
+	font-size: 150%;
+}
+
+.iconHand {
+	padding-top: 3%;
+	padding-left: 1%;
+	width: 2%;
+	padding-right: 0;
+}
+
+.sub_task_title {
+	font-size: 100%;
+	font-weight: 300;
+	padding-bottom: 0.5%;
+	padding-left: 4%;
+}
+
+.sub_task_description {
+	font-size: 70%;
+	padding-bottom: 1%;
+	padding-left: 4%;
+}
+
+.sub_task_hours {
+	text-align: right;
+	font-weight: 300;
+	font-size: 100%;
+}
+
+.tabela_submit {
+	font-size: 90%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	padding-left: 4%;
+}
+
+.category {
+	font-size: 80%;
+	padding-right: 1%;
+	padding-left: 3%;
+}
+
+.description {
+	font-size: 70%;
+	padding-right: 1%;
+	padding-left: 3%;
+	padding-bottom: 3%;
+}
+
+.hidden {
+	display: none;
+}
+
+.td_icon {
+  text-align: right;
+  padding-top: 3%;
+}
+
+form {
+	width: 100%;
+	margin-bottom: 0;
+}

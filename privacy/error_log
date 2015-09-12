@@ -1,0 +1,20 @@
+[07-Jul-2015 11:25:46 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 29
+[07-Jul-2015 11:28:15 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 11:29:14 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 11:29:45 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 11:30:32 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 11:31:04 America/Denver] PHP Parse error:  syntax error, unexpected 't' (T_STRING), expecting ',' or ';' in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 25
+[07-Jul-2015 11:32:39 America/Denver] PHP Parse error:  syntax error, unexpected 't' (T_STRING), expecting ',' or ';' in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 25
+[07-Jul-2015 11:33:41 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 17:26:53 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 17:27:25 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 17:27:50 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 17:28:05 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 17:28:18 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[07-Jul-2015 17:29:28 America/Denver] PHP Notice:  Undefined index: password_new_confirm in /home3/ethosolu/public_html/highestgoodnetwork/privacy/changePassword.php on line 24
+[27-Jul-2015 12:35:50 America/Denver] PHP Notice:  Undefined index: username in /home3/ethosolu/public_html/highestgoodnetwork/privacy/index.php on line 10
+[27-Jul-2015 12:35:50 America/Denver] PHP Notice:  Undefined index: servername in /home3/ethosolu/public_html/highestgoodnetwork/privacy/index.php on line 11
+[27-Jul-2015 12:35:50 America/Denver] PHP Notice:  Undefined index: user_db in /home3/ethosolu/public_html/highestgoodnetwork/privacy/index.php on line 12
+[27-Jul-2015 12:35:50 America/Denver] PHP Notice:  Undefined index: password_db in /home3/ethosolu/public_html/highestgoodnetwork/privacy/index.php on line 13
+[27-Jul-2015 12:35:50 America/Denver] PHP Notice:  Undefined index: dbname in /home3/ethosolu/public_html/highestgoodnetwork/privacy/index.php on line 14
+[27-Jul-2015 12:35:50 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'arafferty'@'localhost' (using password: NO) in /home3/ethosolu/public_html/highestgoodnetwork/privacy/index.php on line 17

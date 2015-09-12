@@ -1,0 +1,49 @@
+.searchBar {
+	float: right;
+}
+
+.title {
+	background-color: #333333;
+	color: #FFFFFF;
+	padding: 1%;
+	width: 98%;
+	font-size: 170%;
+}
+
+.select {
+	float: right;
+}
+
+.general {
+	width: 95%;
+}
+
+.navLeft{
+	width: 30%;
+	float: left;
+	padding-top: 3%;
+	height: 80%;
+}
+
+.rightArt{
+	width: 60%;
+	float: right;
+	padding-top: 3%;
+	height: 80%;
+	padding-left: 1%;
+    overflow-y: auto;
+}
+.teamDescription{
+	float:left;
+
+}
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.navLeftTop {
+	margin-left: 10%;
+}

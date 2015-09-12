@@ -1,0 +1,164 @@
+@import url('font-awesome.css');
+
+.general {
+	width: 95%;
+}
+
+.navleft td {
+	cursor: hand;
+	font-weight: 300;
+	padding-top: 10%;
+	font-size: 150%;
+	margin-right: 1%;
+}
+
+.navleft table {
+	width: 70%;
+}
+
+.navLeft {
+	padding-top: 8%;
+	padding-left: 6%;
+	width: 25%;
+	border-right-style: solid;
+	border-right-width: 1px;
+	height: 75.7%;
+	float: left;
+}
+
+.rightArt{
+	width: 62%;
+	float: right;
+	padding-top: 8%;
+	height: 75.7%;
+	padding-left: 1%;
+    overflow-y: auto;
+}
+
+.rightArt i {
+	color: #7A99FF;
+	font-size: 550%;
+}
+
+.rightArt .smallIcon {
+	color: #333333;
+	/*color: #7A99FF; */
+	font-size: 150%;
+	cursor: hand;
+}
+
+.rightArt .smallIcon:hover{
+	color:#7A99FF;
+}
+
+.txt {
+	font-weight: 100;
+	font-size: 300%;
+}
+
+.rightArt .high_table tr th {
+	background-color: #dfdfdf;
+}
+
+.rightArt .high_table tr td {
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+}
+
+.rightArt table {
+	border-collapse: collapse;
+	width: 90%;
+	margin-top: 3%;
+}
+
+.td_icon {
+	width: 8%;
+	text-align: right;
+	padding-right: 2%;
+}
+
+.td_icon_addUser {
+	text-align: left;
+	width: 8%;
+}
+
+.td_icon_addUser i {
+
+	color: #7A99FF;
+	font-size: 150%;
+}
+
+
+
+.title {
+	white-space: nowrap;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 150%;
+	width: 30%;
+}
+
+.middle {
+}
+
+
+
+.edit{
+	background-color: #84C68C;
+	text-align: center;
+	padding-left: 3%;
+	white-space: nowrap;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 100%;
+	cursor: hand;
+	color: #FFFFFF;
+}
+
+.delete {
+	background-color: #ff0000;
+	text-align: center;
+	padding-left: 3%;
+	white-space: nowrap;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 100%;
+	cursor: hand;
+	color: #FFFFFF;
+}
+
+.wrapper {
+  position: relative;
+  border-bottom: 1px solid #888;
+  text-align: center;
+
+}
+
+#tabela, #tabela_submit {
+
+  border-collapse: collapse;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 150%;
+}
+
+
+#tabela .odd, #tabelaGeralUsers .odd {
+  background-color: #F0F3FF;
+}
+
+
+#addUsers {
+  width: 66%;
+  padding-right: 1%;
+  padding-top: 1%;
+}
+
+#tabelaGeralUsers {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 100%;
+}

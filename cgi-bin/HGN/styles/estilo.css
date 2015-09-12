@@ -1,0 +1,25 @@
+@import url('font-awesome.css');
+
+#tabela{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	width:90%;
+	border:solid 1px;
+	text-align:left;
+   	border-collapse:collapse; 
+}
+
+#tabela tbody tr{
+	border:solid 1px;
+	height:30px;
+	cursor:pointer;
+}
+
+#tabela thead th:nth-child(1){
+	width:100px;
+}
+
+#tabela input{
+	color:navy;
+	width:100%;
+}
